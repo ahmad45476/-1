@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+.env
+
+# Build folders
+dist/
+build/
+client/build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads (إذا كنت لا تريد رفع الصور المرفوعة محلياً)
+backend/uploads/
